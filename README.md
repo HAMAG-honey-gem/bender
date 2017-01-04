@@ -2,6 +2,10 @@
 A machine for bending sheet et alia made of suitable materials. (main module)
 
 
+High level overview
+---
+<img src="high_level_overview.jpg" alt="high_level_overview"/>
+
 
 A collaboration of
 ---
