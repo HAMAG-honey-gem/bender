@@ -536,7 +536,7 @@ $Sheet
 S 3450 3250 2000 200 
 U 51D84CE9
 F0 "hydraulic_pressure_control_circuit" 50
-F1 "electronics/1phase_ac_motor_controller.sch" 50
+F1 "electronics/3phase_ac_motor_controller.sch" 50
 $EndSheet
 Text Notes 1200 4600 0    60   ~ 0
 Sensor Signal Distribution (SW, ROS/UNIX)
