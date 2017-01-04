@@ -1380,5 +1380,5 @@ DF 03 95 07 C6 5E 03 70 14 94 AE 03 63 A1 6F 1A 1E 00 FC 7F 6B 97 BA 2E 5F 27 7B
 EndData
 $EndBitmap
 Text Notes 1250 2400 0    60   ~ 0
-TODO: The overview is hardware / analog only as every digital part is attached to an analog one. Either move control box contents to digital or move the sheet to digital.\nTODO: Use "tendency" instead of "world" in "analog side", "side" in "input side" respectively.\nTODO: Add control, driver, actuator for X,Y axes.
+TODO: The overview is hardware / analog only as every digital part is attached to an analog one. Either move control box contents to digital or move the sheet to digital.\nTODO: Use "tendency" instead of "world" in "analog world", "side" in "input side" respectively.\nTODO: Add control, driver, actuator for X,Y axes.
 $EndSCHEMATC
